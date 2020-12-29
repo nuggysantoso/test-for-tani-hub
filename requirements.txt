@@ -4,3 +4,4 @@ flask==1.1.2
 pytest-html==3.0.0
 selenium==3.141.0
 behave
+Appium-Python-Client==1.0.2
